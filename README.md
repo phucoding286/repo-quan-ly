@@ -4,4 +4,4 @@
 ## Các mục bên dưới 🧾
 1. các dự án về trí tuệ nhân tạo.
     - Các dự án về NLP.
-        - Full thuật toán Tokenizer "Byte Pair Encoding" scratch.
+        - [Full thuật toán Tokenizer "Byte Pair Encoding" scratch.](https://www.github.com/temp_empty)
