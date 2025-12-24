@@ -31,6 +31,7 @@
 
 - **Tool kiếm tiền**
   - [Tool kiếm tiền qua Facebook (V1.0)](https://github.com/phucoding286/golike-facebook-system-v1.0)
+  - [Tool kiếm tiền qua Facebook (V2.0)](https://github.com/phucoding286/golike-facebook-system-v1.0/tree/main/B%E1%BA%A3n_Golike_V%E1%BB%9Bi_API)
   - [Tool kiếm tiền qua TikTok](https://www.github.com/temp_empty)
 
 - **Tư duy & chiến lược Crypto**
