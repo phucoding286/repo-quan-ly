@@ -20,6 +20,10 @@
 
 - **Computer Vision**
   - [Mô hình U-Net gốc (2015) – code thử nghiệm](https://www.github.com/temp_empty)
+ 
+- **Dataset**
+  - Bộ datasets tiếng việt đa dạng mà tôi tự crawl.
+    - [Data Patch 1](https://www.github.com/temp_empty)
 
 ---
 
