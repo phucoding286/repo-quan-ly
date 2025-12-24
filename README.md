@@ -22,7 +22,7 @@
   - [Mô hình U-Net gốc (2015) – code thử nghiệm](https://www.github.com/temp_empty)
  
 - **Dataset**
-  - Bộ datasets tiếng việt đa dạng mà tôi tự crawl.
+  - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
     - [Data Patch 1](https://www.github.com/temp_empty)
 
 ---
