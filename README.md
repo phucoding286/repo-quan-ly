@@ -6,3 +6,4 @@
     - Các dự án về NLP.
         - [Full thuật toán Tokenizer "Byte Pair Encoding" scratch.](https://www.github.com/temp_empty)
         - [Full mô hình LM bản chuẩn (Có sẵn sampling và hàm generate bên trong lớp mô hình)](https://www.github.com/temp_empty)
+        - [Bản biến thể kiến trúc "Self-Attention" của tôi.](https://www.github.com/temp_empty)
