@@ -35,4 +35,4 @@
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
 - **Tư duy & chiến lược Crypto**
-  - [Kỹ thuật trade dài hạn – định hướng ổn định vốn, lợi nhuận đều.](https://www.github.com/temp_empty)
+  - [Kỹ thuật trade dài hạn – định hướng ổn định vốn, lợi nhuận đều.](https://github.com/phucoding286/chien-luoc-choi-trading)
