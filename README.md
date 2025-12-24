@@ -14,7 +14,7 @@
 ### 1. Các dự án về trí tuệ nhân tạo 💻📊
 
 - **NLP**
-  - [Full thuật toán Tokenizer – ```Byte Pair Encoding (BPE)``` được viết từ đầu bằng ```Python```](https://www.github.com/temp_empty)
+  - [Full thuật toán Tokenizer – Byte Pair Encoding (BPE) được viết từ đầu bằng Python.](https://www.github.com/temp_empty)
   - [Mô hình Language Model bản chuẩn (có sampling & hàm generate trong lớp mô hình)](https://www.github.com/temp_empty)
   - [Biến thể kiến trúc Self-Attention do tôi thiết kế ⚡](https://www.github.com/temp_empty)
 
