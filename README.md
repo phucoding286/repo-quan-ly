@@ -2,7 +2,7 @@
 
 > **Lưu ý**  
 > Đây chỉ là một kho lưu trữ chứa các link điều hướng và nhóm các dự án quan trọng của tôi.  
-> Phần lớn có thể ở trạng thái `private` (Truy cập sẽ gây lỗi 404) hoặc một số sẽ `public` (Có thể truy cập).  
+> Phần lớn có thể ở trạng thái `private (Truy cập sẽ gây lỗi 404)` hoặc một số sẽ `public (Có thể truy cập)`.  
 > Nếu bạn là **người truy cập bên ngoài**, vui lòng bỏ qua hoặc liên hệ với tôi qua các nền tảng sau.
 
 - Facebook: https://www.facebook.com/hoangphu020
