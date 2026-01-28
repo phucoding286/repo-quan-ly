@@ -25,7 +25,7 @@
   - [Mô hình DDPM - tự triển khai](https://github.com/phucoding286/denoise_diffusion_probability_model_ddpm_Project)
   - [Mô hình VAE - tự triển khai](https://github.com/phucoding286/variantional_autoencoders_VAE_Project)
  
-- **Dataset**
+- **NLP Datasets**
   - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
     - [Data Patch 1 (2.15GB)](https://drive.google.com/file/d/1x3kXh2z32paOGJFIHQ71fuleCuzONGev/view?usp=sharing)
   - Bộ datasets truyện chữ tiếng việt mà tôi tự crawl từ sstruyen.com.vn dành cho pretrain Language Model.
