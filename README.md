@@ -45,7 +45,7 @@
 
 - **Tư duy & chiến lược Crypto**
   - [Kỹ thuật trading (Không khuyên dùng nữa)](https://github.com/phucoding286/chien-luoc-choi-trading)
-  - [Chiến lược trading causual dành cho người thụ động](https://github.com/phucoding286/chien-luoc-trading-sieu-nhan-roi)
+  - [Chiến lược trading causual, phòng thủ cực mạnh, dành cho người thụ động](https://github.com/phucoding286/chien-luoc-trading-sieu-nhan-roi)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
