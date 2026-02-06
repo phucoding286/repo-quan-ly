@@ -50,7 +50,7 @@
   - [Link bot tự động trade 24/7 trade trên sàn OKX, được code để vận hành dựa trên chiến lược tối ưu nhất.](https://github.com/phucoding286/bot-trade-san-okx)
  
 - **Các Fact toán học tài chính về các công thức kiếm tiền, nếu hiểu rõ sẽ biết được con đường làm giàu không khó!**
-  1. ! Tạm thời để trống !
+  - ! Tạm thời để trống !
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
