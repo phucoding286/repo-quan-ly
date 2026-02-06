@@ -48,6 +48,8 @@
   - [Chiến lược trading phòng thủ cực mạnh, dành cho người thụ động (Có thể cân nhắc dùng.)](https://github.com/phucoding286/chien-luoc-trading-sieu-nhan-roi)
   - [Chiến lược trading cân bằng giữa rủi ro và an toàn (Khuyên dùng nhất!)](https://github.com/phucoding286/chien-luoc-trading-can-rui-ro-loi-nhuan)
   - [Link bot tự động trade 24/7 trade trên sàn OKX, được code để vận hành dựa trên chiến lược tối ưu nhất.](https://github.com/phucoding286/bot-trade-san-okx)
+ 
+- **Các Fact toán học tài chính về các công thức kiếm tiền, nếu hiểu rõ sẽ biết được con đường làm giàu không khó!**
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
